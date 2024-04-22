@@ -55,3 +55,4 @@ To clear all reminders:
 
 ## Screenshots
 
+![Deta](assets/IMG_5116.PNG)
