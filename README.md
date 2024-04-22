@@ -55,4 +55,13 @@ To clear all reminders:
 
 ## Screenshots
 
-![Deta](assets/IMG_5116.PNG)
+![Home Screen](assets/IMG_5116.PNG)
+![Home Screen](assets/IMG_5117.PNG)
+![Home Screen](assets/IMG_5118.PNG)
+![Home Screen](assets/IMG_5119.PNG)
+![Home Screen](assets/IMG_5120.PNG)
+![Home Screen](assets/IMG_5121.PNG)
+
+## Team Video Presentation
+
+Link: https://drive.google.com/file/d/1sr5zJIGfLnlfg3hhn8T0-TpOY79HdcRN/view?usp=sharing
